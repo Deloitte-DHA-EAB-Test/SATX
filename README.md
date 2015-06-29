@@ -1,0 +1,2 @@
+# SATX
+USRPROPS for SATX 
